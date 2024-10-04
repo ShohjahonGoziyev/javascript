@@ -101,3 +101,29 @@
 // theif[property] = value;
 
 // console.log(theif)
+// const age = +prompt("How old a you", "");
+
+// if (age > 25) {
+//     console.log("Horror films");
+// }else if (age >= 18 && age <= 25){
+//     console.log("Byevik film")
+// }else{
+//     console.log("Carton")
+// }
+// age >= 25 ? console.log("Horror films") : console.log("carton")
+// const color = "crash"
+// switch(color){
+//     case "red":
+//         console.log("Stop");
+//         break;
+//     case "green":
+//         console.log("Go");
+//         break;
+//     case "yellov":
+//         console.log("Slovly");
+//         break;
+//     default:
+//         console.log("Trafic jam");
+//         break;
+// };
+
