@@ -127,3 +127,26 @@
 //         break;
 // };
 
+// let startNum = 1;
+// while(startNum <= 20){
+//     console.log(startNum)
+//     startNum++;
+// };
+
+// do {
+//     console.log(startNum)
+//     startNum++;
+// }while(startNum <=20)
+
+// for(let i = 1; i <= 20; i++){
+//     console.log(i)
+// }
+// let num = 10;
+
+// for (let i = 1; i <= 10; i++){
+//     if(i === 9){
+//         // break;
+//         continue
+//     }
+//     console.log(i);
+// }
