@@ -150,3 +150,37 @@
 //     }
 //     console.log(i);
 // }
+// const numberOfSeries = +prompt ("Nechra serial kordingiz?", "");
+// const seriesDB = {
+//     count: numberOfSeries,
+//     series: {},
+//     actors: {},
+//     genres: [],
+//     privat: false  
+
+// };
+
+// for (let i = 0; i < 2; i++){
+//     const a = prompt("Oxirgi korgan serialingiz?"),
+//     b = prompt("Nechi baxo berasiz?");
+
+//     if(a != null && b!= null && a != "" && b != ""){
+//         seriesDB.series[a] = b;
+//         console.log("done");
+
+//     }else{
+//         console.log("Error: Input should not be empty");
+//         i--;
+//     }
+    
+    
+// }
+// if(seriesDB.count < 5){
+//     console.log("Kam serial koribsiz");
+// }else if(seriesDB.count >= 5 && seriesDB.count < 10){
+//     console.log("Siz classik tomoshobin ekansiz");
+// }else if(seriesDB.count >= 10){
+//     console.log("Siz serialchi qiroli ekansiz");
+// }
+
+// console.log(seriesDB)
