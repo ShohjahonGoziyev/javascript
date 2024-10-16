@@ -184,3 +184,24 @@
 // }
 
 // console.log(seriesDB)
+
+
+function calc(a, b){
+    return a + b;
+}
+
+
+
+const sumofAanddb = calc(10, 45)
+console.log(sumofAanddb)
+
+
+
+
+
+
+
+
+const notarius = (a) => {
+    console.log(a)
+}
